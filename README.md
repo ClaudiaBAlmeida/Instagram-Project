@@ -1,2 +1,2 @@
 # Instagram-Project
-Instagram 
+Clone da página do Instagram, do zero, usando apenas HTML e CSS. Projeto do Bootcamp da Digital Innovation One.
